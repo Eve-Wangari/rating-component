@@ -77,7 +77,7 @@ color:hsl(333, 80%, 67%);
 .section-b{
     margin-bottom:30vh;
 }
-@media(min-width:700px){
+@media(min-width:768px){
   body{
     background-image: url('images/bg-pattern-top-desktop.svg'),
     url('images/bg-pattern-bottom-desktop.svg');
@@ -144,6 +144,10 @@ main{
 
 
       }
+      .card-title img{
+        max-width:40%;
+        
+      }
       
 footer{
     position:fixed;
@@ -152,7 +156,4 @@ footer{
     transform: translateX(-50%);
     
 }
-/* .section-b{
-    margin:5em;
-} */
 }
