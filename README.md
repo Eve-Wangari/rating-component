@@ -11,6 +11,7 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 Users should be able to:
 
 - View the optimal layout for the section depending on their device's screen size
+- Live Site URL: [Go to live site](https://animated-kringle-6c552c.netlify.app/)
 
 
 ### Built with
